@@ -7,3 +7,7 @@
  */
 
 rootProject.name = "prep"
+
+include(
+    ":prep-core",
+)
